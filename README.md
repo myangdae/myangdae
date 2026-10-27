@@ -1,4 +1,4 @@
-# Portifólio
+# About Me
 
 UI/UX designer: Game UI, UX Design e UX Research. Fundador da [aure](https://github.com/aureinit) e da [Bingzhan Studios](https://github.com/bingzhanstudios).
 
